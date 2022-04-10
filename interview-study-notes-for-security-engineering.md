@@ -256,9 +256,9 @@
 	- 1024 - 49151: Registered ports used for IANA-registered services. 
 	- 49152 - 65535: Dynamic ports that can be used for anything. 
 
-- HTTP Header
+- HTTP Request Header
 	- | Verb | Path | HTTP version |
-	- Domain
+	- Host
 	- Accept
 	- Accept-language
 	- Accept-charset
